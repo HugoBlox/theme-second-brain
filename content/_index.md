@@ -1,5 +1,5 @@
 ---
-title: ✍️ Notes
+title: ✍️ Sijin Notes
 type: book # Do not modify.
 toc: false
 
