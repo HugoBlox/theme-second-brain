@@ -1,41 +1,19 @@
 ---
-title: ✍️ Second Brain
-date: 2022-09-24
+title: 數據資訊辨讀與寫作 Probabilistic Thinking and Academic Writing
+date: 2022-12-21
 toc: false
 
 image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  filename: covers/avatar.jpg
+  caption: meme
 ---
 
-Welcome to the _Second Brain_ template!
+Welcome to the Website! 
+我出於好奇選了這門課，因為它的翻譯版本聽起來很有趣。
+在整個學期中，我們根據課堂上給定的主題對論文進行了草稿和期末考試。
+這些是我願意分享的 6 篇文章。
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
 
-- It is your second brain 🧠, stored in future-proof Markdown files 
-- Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
+## Tzu Chi University
 
-```markmap {height="200px"}
-- Second Brain
-  - **powerful** knowledge base
-  - **easy**: just plain text Markdown files
-  - all your thoughts are **connected**
-  - highly **extensible**
-  - **future-proof** & open source ❤️
-```
-
-## Public vs Private Second Brain
-
-Choose between **publishing and sharing your knowledge online or creating a private second brain**.
-
-To create an **open second brain**, share your knowledge with others [by deploying this template](https://wowchemy.com/hugo-themes/) as a public website.
-
-To create a **private second brain** either:
-
-- After deploying your site above, [password protect your online second brain](https://docs.netlify.com/visitor-access/password-protection/) and configure your GitHub repo as **private**
-- [Download this template](https://github.com/wowchemy/hugo-second-brain-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
-
-## Example notebook
-
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+{{< cta cta_text="👉 Tzu Chi University" cta_link="http://info.student.tcu.edu.tw/g" >}}
