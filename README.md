@@ -1,6 +1,6 @@
 # [Hugo Second Brain Theme](https://github.com/HugoBlox/theme-second-brain)
 
-[![Screenshot](./preview.webp)](https://hugoblox.com/templates/)
+[![Screenshot](preview.webp)](https://hugoblox.com/templates/)
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
 
